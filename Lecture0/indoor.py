@@ -1,3 +1,3 @@
-lower = input("Write something: ")
+lower = input("")
 lower = lower.lower()
 print(lower)

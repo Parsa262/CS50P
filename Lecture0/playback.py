@@ -1,4 +1,2 @@
-# replace spaces between words with ...
-text = input("Write something:")
-text = playback.replace(" ","...")
+text = input("").replace(" ","...")
 print(text)

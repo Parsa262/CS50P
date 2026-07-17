@@ -33,3 +33,25 @@
 * `def` → defines (creates) a function.
 * Scope → variables created inside a function usually exist only inside that function.
 * `return` → sends a value back from a function so it can be used elsewhere.
+
+# Week 0 Problems
+
+## indoor
+- String method: .lower()
+- Converts uppercase letters to lowercase
+
+## playback
+- .replace(old, new)
+
+## faces
+- Functions
+- return sends a value back
+
+## einstein
+- int conversion
+- arithmetic operators
+
+## tip
+- float conversion
+- combining functions
+- formatting numbers
